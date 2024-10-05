@@ -6,6 +6,12 @@ Download the zip file by clicking the dropdown arrow next to the Code button. Do
 
 ![Download button](./screenshots/cloneMe.png)
 
-From Blender, navigate to `Edit > Preferences > Add-ons`. Then, from the top-left corners' dropdown arrow, select "Install from Disk..."
+From Blender, navigate to `Edit > Preferences > Add-ons`. Then, from the top-left corners' dropdown arrow, select "Install from Disk..." Select the zip folder that you downloaded.
 
 ![Install option](./screenshots/preferencesMenu.png)
+
+You will see that your addon has installed and is automatically enabled.
+
+![Addon option](./screenshots/addonSelected.png)
+
+## Usage
