@@ -16,3 +16,5 @@ You will see that your addon has installed and is automatically enabled.
 
 ## Usage
 First, select vertices that you would like to tidy. Then, to access Tidy Mesh, which you can access by right clicking on your object in Edit mode to open the context menu. In doing so, you can see adjacent triangles merged and duplicate vertices removed.
+
+[Before/after](./screenshots/tidy_before_after.png)
