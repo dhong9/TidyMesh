@@ -1,7 +1,11 @@
 # TidyMesh
-Blender addon for removing overlapping vertices and triangles
+Blender addon for removing overlapping vertices and triangles. This is currently for Blender 4.2.
 
 ## Installation
-Download the zip file by clicking the dropdown arrow next to the Code button.
+Download the zip file by clicking the dropdown arrow next to the Code button. Do *not* unzip it!
 
 ![Download button](./screenshots/cloneMe.png)
+
+From Blender, navigate to `Edit > Preferences > Add-ons`. Then, from the top-left corners' dropdown arrow, select "Install from Disk..."
+
+![Install option](./screenshots/preferencesMenu.png)
